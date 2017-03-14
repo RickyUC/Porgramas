@@ -1,2 +1,2 @@
-# Porgramas
+# Programas
 Programas creados para practicar o complementar los contenidos de Programación Avanzada
