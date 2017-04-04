@@ -1,0 +1,31 @@
+21:14 14-03-2017
+
+*Hacer que sea solo un programa y universal.
+En cada computador en el que está te solicita las ubicaciones de todos los repositorios que desees actualizar con autogit en esa computadora en específico.
+Crea una carpeta (fuera del repositorio GIT) con archivos de bases de datos de los repositorios que se quiere actualizar 
+Crea un archivo de texto o un README que explique que esa carpeta permite que el programa Autogit funcione
+Si la carpeta no existe el programa debe crearla
+
+MENU 1
+
+[1] Actualizar Repositorios
+[2] Subir Cambios
+
+[3] Modificar Listado Repositorios
+
+
+
+MENU 2 (Si presiona alternativa 3)
+
+[1] Añadir Repositorios a los que se les debe hacer "Git Pull" constantemente
+[2] Añadir Repositorios a los que se les debe hacer "Git Push" constantemente
+[3] Eliminar Repositorios del Listado
+
+
+
+*Hacer que el programa sea robusto a errores de input del usuario
+
+*Hacer que el programa muestre qué repositorios fueron actualizados o cuales están por actualizar (y solicitar q sean aceptados) después de seleccionar alguna de las opciones.
+
+*Que el programa vaya borrando la consola y permita reiniciarlo al finalizar
+
